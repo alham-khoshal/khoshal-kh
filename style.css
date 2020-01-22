@@ -1,0 +1,282 @@
+
+.none
+	{
+	   padding-left: 100px;
+       padding-right: 100px;
+       padding-bottom: 20px;
+       padding-top: 20px;
+	}
+.info
+	{
+		background-color: blue;
+		display: inline-block;
+	}
+
+.formright	
+	{
+
+		background-color: black;
+		display: inline-block;
+		width: 40%;
+		padding:10px 
+
+		}
+
+.formbuttom
+	{
+		width: 1000px;
+		background-color: yellow;
+
+	}
+
+.formleft
+	{
+		background-color: green;
+		display: inline-block;
+		width: 40%;
+		padding top: 40PX;
+
+
+
+	}
+
+.formulaire
+	{
+		background-color: grey;
+		width: 60%;
+		padding: 140px;
+
+	}
+
+.title
+		{
+
+			background-color: orange;
+			size: 30px;
+			padding: 55px
+
+		}
+
+
+
+.contactformbas
+		
+		{ 
+			margin:0px;
+			background-color: red;
+			width:40%;
+		    padding: 40px;
+		    display: inline-block;
+
+	}
+
+.contactform
+		{
+			background-color: blue;
+
+		}
+
+
+.bas a {
+    width: 25%;
+    padding: 30px;
+    color: 
+    #fff;
+    text-decoration: none;
+}
+.bas a:hover
+	{
+		background-color: white;
+		color: red;
+
+	}
+
+
+
+.cantact
+	{
+		display: inline-block;
+		font-size: 20px;
+
+
+	}
+
+
+.jesuis
+	{ 
+		font-size: 100px;
+		color: red;
+
+
+}
+
+.card:hover 
+	{
+		transform: scale(1.1);
+
+	}
+
+button:hover
+	 {
+	 transform: scale(1.5);
+
+	 }
+
+
+.card:hover
+	{ 
+
+}
+
+.nousprodute a
+			{
+				background-color: none !important;
+			}
+
+.nousprodute
+	{
+		display: inline-block;
+		padding: 20px;
+		margin: 20px;
+	}
+
+.inscrire
+
+		{
+			padding: 10px
+			margin:2px;	
+			background-color: #d65900;
+			font-size: 40px;
+			padding: 40px;
+			color: white;
+
+}
+
+button {
+	border-style: none;
+	border-radius: 5px;
+}
+
+button a {
+	text-decoration: none;
+	color: #d65900;
+
+}
+
+
+.video 
+	 { 
+	 	padding: 40px;
+	  color: black;
+
+}
+
+
+.logo {
+	position: absolute;
+	top: 20px;
+	left: 20px;
+	color: white;
+	font-size: 35px;
+}
+
+.image img {width: 100%;}
+.image {
+	position: relative;
+}
+
+.paysage {
+	position: absolute;
+	background-color: none;
+	bottom: 100px;
+	left: 22%;	color: white;
+	text-align: center;
+	font-size: 45px;
+}
+
+
+body { 
+	font-family: font-family: 'Amatic SC', cursive;
+	padding: 0;
+	margin: 0;
+}
+.card{
+		display: inline-block; 
+		width:28%;
+		padding:0px; 
+		margin: 2%;  
+		border:0.5px solid grey; 
+		background-color: white;  
+		font-family: verdana; 
+		border-radius: 10px;
+		font-size: 18px; 
+		overflow: hidden;
+	}
+
+
+	p{
+		text-decoration-color: black
+		margin: 0px;
+	 	font-style: italic;
+	}
+
+
+	.card img{ 
+		width: 100%;
+
+	}
+
+
+	h1{
+		padding: 20px;
+		border-bottom: 20px ;
+	}
+
+ nav { 
+ 	background-color:  #d65900;
+	padding: 20px;
+ 	font-size: 36px;
+  }
+
+  nav a {
+  	width: 25%;
+  	padding: 20px;
+  	color: #fff;
+	text-decoration: none;
+  }
+
+.cardtext{
+	padding: 10px;
+}
+
+.foot img {
+	width: 350px;
+	height: 350px;
+	margin: 10px 15px;
+
+}
+.foot p { 
+	color: white;
+	width: 350px;
+	font-size: 20px;
+  }
+
+footer { color: white; text-align: center;
+font-size: 26px;
+ background-color: #d65900;
+ }
+
+ .foot {
+ 	display: flex;
+ 	justify-content: center;
+ }
+
+ footer h2{
+	padding: 15px;
+	margin-top: 20px;
+ }
+ 
+head 
+	{ font-family: font-family: 'Amatic SC', cursive;
+
+ }
